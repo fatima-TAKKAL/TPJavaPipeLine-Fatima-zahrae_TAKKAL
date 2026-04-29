@@ -112,13 +112,13 @@ La capture ci-dessous montre le build #1 declenche automatiquement.
 
 ## Résultat final
 
-| Etape                                       |          Statut                          |
-|----------------------------------------------------------------------------------------|
-| Pipeline declenche automatiquement          | Succes                                   |
-| Compilation Maven                           | Succes                                   |
-| Tests unitaires                             | 1 test, 0 failures, 0 errors             |
-| Package JAR                                 | javapipeline-1.0-SNAPSHOT.jar (2.06 KiB) |
-| Archivage Jenkins                           | Succes                                   |
+
+
+- Pipeline declenche automatiquement  --> Succes                                   
+- Compilation Maven  --> Succes
+- Tests unitaires --> 1 test, 0 failures, 0 errors  
+- Package JAR -->  javapipeline-1.0-SNAPSHOT.jar (2.06 KiB) 
+- Archivage Jenkins   --> Succes
 
 
 ## Conclusion
