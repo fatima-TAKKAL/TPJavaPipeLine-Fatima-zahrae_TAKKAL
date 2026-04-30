@@ -92,7 +92,6 @@ ngrok expose Jenkins local sur Internet avec une URL publique temporaire.
 <img width="771" height="634" alt="{B4D59FDB-9AED-4873-85FE-A47C4492AFCC}" src="https://github.com/user-attachments/assets/1826b785-a960-4e98-aff5-7368ca4b93bc" />
 <img width="780" height="288" alt="{8D2BF259-2BF3-46A0-989F-D7F270BEA75E}" src="https://github.com/user-attachments/assets/3fd40f2e-ccf3-430f-8066-34249aa3e6d4" />
 <img width="554" height="250" alt="image" src="https://github.com/user-attachments/assets/6ccd5894-91de-47d6-aa8a-df55a8828b49" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c9518188-216c-420c-a684-1039b31d41c2" />
 <img width="350" height="259" alt="image" src="https://github.com/user-attachments/assets/cc339986-9073-4f7c-9bf7-77085d4f853a" />
 <img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/a83f1eb3-e751-4c0d-8632-7a7286a213f2" />
 
